@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0xxyqy4t71tt21kj?svg=true)](https://ci.appveyor.com/project/Uliana-O/card-order)
