@@ -43,7 +43,7 @@ public class SeleniumTest {
     }
 
     @Test
-    void shouldSendForm() {
+    void sendForm() {
 
         driver.findElement(By.cssSelector("[data-test-id=name] input")).sendKeys("Иванов Сергей");
         driver.findElement(By.cssSelector("[data-test-id=phone] input")).sendKeys("+79001234567");
