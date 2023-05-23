@@ -19,7 +19,7 @@ public class SeleniumTest {
     static void setupClass() {
 
         WebDriverManager.chromedriver().setup();
-        //System.setProperty(/Users/willi/Desktop/Card_order/driver/chromedriver_mac64.zip);
+
 
     }
 
